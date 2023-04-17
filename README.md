@@ -12,7 +12,7 @@ hexlet-ci-app-jamal-test
 * NPM >= 6.x
 * Make
 
-## Using
+## Using 
 
 ```sh
 make setup
