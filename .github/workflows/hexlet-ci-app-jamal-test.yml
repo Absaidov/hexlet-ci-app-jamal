@@ -8,7 +8,7 @@ jobs:
 
       - uses: actions/setup-node@v3
 
-      - run: setup
-      - run: start
-      - run: test
-      - run: lint
+      - run: make setup
+      - run: make start
+      - run: make test
+      - run: make lint
