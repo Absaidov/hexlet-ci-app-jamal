@@ -2,6 +2,10 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
+hexlet-my-first-workflow
+
+![example workflow](https://github.com/Absaidov/hexlet-ci-app-jamal/actions/workflows/hexlet-ci-app-jamal-test.yml/badge.svg)
+
 ## System requirements
 
 * NodeJS >= 18
