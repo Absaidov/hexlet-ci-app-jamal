@@ -9,8 +9,6 @@ jobs:
       - uses: actions/setup-node@v3
 
       - run: setup
-      - run: install
-      - run: build
       - run: start
       - run: test
       - run: lint
